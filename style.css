@@ -249,19 +249,19 @@
 .services .card .card-body {
   text-align: center;
 }
-/* Gallary */
-.gallary {
+/* Gallery */
+.gallery {
   margin-top: 50px;
 }
 .gallary .card {
   border-radius: 10px;
   cursor: pointer;
 }
-.gallary .card img {
+.gallery .card img {
   border-radius: 10px;
   transition: 0.5s;
 }
-.gallary .card img:hover {
+.gallery .card img:hover {
   transform: scale(1.05);
 }
 /* About */
